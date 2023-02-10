@@ -1,0 +1,10 @@
+.bannerss {
+    color: white;
+    object-fit: contain;
+    position: absolute;
+    top: 10%;
+    height: 448px;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+  }

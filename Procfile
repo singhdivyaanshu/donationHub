@@ -1,0 +1,1 @@
+web: cd donation-app-backend && npm start
